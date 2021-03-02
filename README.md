@@ -1,10 +1,10 @@
 # WebCamSharp-OpenCVSharp3
 
-Why?
+# Why?
 The goal of this project was to learn how to make public nuget packages and provide easy way for beginning coders.
 
-How?
+# How?
 I used OpenCVSharp, based on another package, with my own twist. See example projects on how to use it.
 
-What next? 
+# What next? 
 I plan on making the same for newest OpenCVSharp4.
