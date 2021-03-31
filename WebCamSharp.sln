@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCamSharp", "WebCamSharp-OpenCVSharp3\WebCamSharp.csproj", "{01BCBDC6-1C8E-429B-8F16-412D5310C511}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCamSharp", "WebCamSharp-OpenCVSharp3\WebCamSharp.csproj", "{01BCBDC6-1C8E-429B-8F16-412D5310C511}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCamSharp.WindowsFormsExample", "WebCamSharp.WindowsFormsExample\WebCamSharp.WindowsFormsExample.csproj", "{FEC5FE70-891B-4631-9062-FF6A3C7D77C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCamSharp.WindowsFormsExample", "WebCamSharp.WindowsFormsExample\WebCamSharp.WindowsFormsExample.csproj", "{FEC5FE70-891B-4631-9062-FF6A3C7D77C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCamSharp.WpfExample", "WebCamSharp.WpfExample\WebCamSharp.WpfExample.csproj", "{A2569BA5-C89F-4147-880A-6FF30355846A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCamSharp.WpfExample", "WebCamSharp.WpfExample\WebCamSharp.WpfExample.csproj", "{A2569BA5-C89F-4147-880A-6FF30355846A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

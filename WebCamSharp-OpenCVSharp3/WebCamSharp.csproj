@@ -8,11 +8,13 @@
     <PackageTags>Webcam, WPF, winForms, webcam, capture, wpf, webeye</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/tomaszcekalo/WebCamSharp-OpenCVSharp3</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/tomaszcekalo/WebCamSharp-OpenCVSharp3</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="OpenCvSharp3-AnyCPU" Version="4.0.0.20181129" />
-    <PackageReference Include="System.Drawing.Common" Version="5.0.1" />
+    <PackageReference Include="OpenCvSharp4" Version="4.5.1.20210210" />
+    <PackageReference Include="System.Drawing.Common" Version="5.0.2" />
   </ItemGroup>
 
 </Project>
