@@ -2,14 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
-    <RootNamespace>WebCamSharp_OpenCVSharp3</RootNamespace>
+    <RootNamespace>WebCamSharp</RootNamespace>
     <Authors>Tomasz Cekało</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageTags>Webcam, WPF, winForms, webcam, capture, wpf, webeye</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/tomaszcekalo/WebCamSharp-OpenCVSharp3</RepositoryUrl>
+    <RepositoryUrl>https://github.com/tomaszcekalo/WebCamSharp</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageProjectUrl>https://github.com/tomaszcekalo/WebCamSharp-OpenCVSharp3</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/tomaszcekalo/WebCamSharp</PackageProjectUrl>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+    <FileVersion>2.0.0.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
